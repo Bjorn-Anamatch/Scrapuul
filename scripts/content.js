@@ -1,4 +1,4 @@
-//alert("I am on a profile page");
+alert("I am on a profile page");
 
 //global imports (avoid these)
 
